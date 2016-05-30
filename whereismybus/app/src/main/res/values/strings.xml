@@ -1,0 +1,9 @@
+<resources>
+    <string name="find_your_bus">Find your Bus</string>
+    <string name="app_name">Find my Bus</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="running_status">Último reporte #</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="info_app">Info app</string>
+</resources>
