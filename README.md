@@ -1,10 +1,14 @@
 
-#  Log.i(TAG," :sunglasses: Where is My Buss Android App :sunglasses: "); 
+#  Log.i(TAG," :sunglasses: Where is My Bus Android App :sunglasses: "); 
 
 This is the home for source code of the android app, is written using java. **We are open improvements**, if you like :heart_eyes: the app and  think that there is something  missing, or perhaps you want  improve something, just do it!. We are looking forward to hear from you.  
 
 ### Where can I  start?
 You can give a look to open issues tab, there you can find  new features and bugs reported.
+
+### Setting up
+The app works using  [Google Maps][google_maps_docs], and [firebase][firebase_docs_database] please check the docs for any pre-configuration.
+
 
 ### Pull Request
 
@@ -40,7 +44,8 @@ Check out all the super awesome contributors at [the contributors page](https://
 ### Extra Help
 
 If you need help with the repo or you have any question, you can ask to Arturo mejia arturomejiamarmol@gmail.com or Angel Garcia angelrenegarcia13@gmail.com, repository moderators.
-
+[google_maps_docs]: <https://developers.google.com/maps/documentation/android-api/>
+[firebase_docs_database]: <https://firebase.google.com/docs/database/android/start>
 [iOS_repo]: <https://github.com/Amejia481/whereIsMyBusiOSClient>
 [android_tracker_repo]: <https://github.com/Amejia481/whereismybus_locationtracking>
 [web_app_repo]: <https://github.com/AngelGarcia13/WhereIsMyBus>
