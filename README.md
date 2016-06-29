@@ -41,9 +41,17 @@ If we notice that someone is very actives and has remarkable participation in th
 
 Check out all the super awesome contributors at [the contributors page](https://github.com/Amejia481/whereIsMyBusiOSClient/graphs/contributors). :sparkling_heart:
 
+
+
 ### Extra Help
 
 If you need help with the repo or you have any question, you can ask to Arturo mejia arturomejiamarmol@gmail.com or Angel Garcia angelrenegarcia13@gmail.com, repository moderators.
+
+### LICENSE
+This project is under the Attribution Assurance License (AAL). See the [License][License]
+
+:sparkles: **happy coding and have fun** :sparkles:.
+
 [google_maps_docs]: <https://developers.google.com/maps/documentation/android-api/>
 [firebase_docs_database]: <https://firebase.google.com/docs/database/android/start>
 [iOS_repo]: <https://github.com/Amejia481/whereIsMyBusiOSClient>
@@ -51,5 +59,6 @@ If you need help with the repo or you have any question, you can ask to Arturo m
 [web_app_repo]: <https://github.com/AngelGarcia13/WhereIsMyBus>
 [performace_android]: <https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE>
 [best_practice]: <https://www.youtube.com/playlist?list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM>
+[License]: <https://github.com/Amejia481/whereIsMyBusAndroidClient/blob/master/LICENSE.md>
 
-:sparkles: **happy coding and have fun** :sparkles:.
+
