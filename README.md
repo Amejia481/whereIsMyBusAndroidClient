@@ -1,7 +1,11 @@
 
 #  Log.i(TAG," :sunglasses: Where is My Bus Android App :sunglasses: "); 
 
-This is the home for source code of the android app, is written using java. **We are open improvements**, if you like :heart_eyes: the app and  think that there is something  missing, or perhaps you want  improve something, just do it!. We are looking forward to hear from you.  
+Where is my bus is tool that helps students to track where their school buses are in real time. This project is composed by three clients apps ([Android][android_client], [iOS][iOS_repo] and [Web mobile][web_app_repo]) and one [tracker app][android_tracker_repo]. Each school bus has a low-end android device with the [tracker app][android_tracker_repo] installed in it, every time the buses move 20 meters the app pushes the new location to a [real-time firebase database][firebase_docs_database] and notify all the clients that the position has changed. 
+
+This is the home for the android client source code It is written using java. **We are open improvements**, if you like :heart_eyes: the app and  think that there is something  missing, or perhaps you want  improve something, just do it!. We are looking forward to hear from you.  
+
+<img src="https://raw.githubusercontent.com/Amejia481/whereIsMyBusAndroidClient/master/docs/img/print_screen.png" align="center" height="888" width="500" >
 
 ### Where can I  start?
 You can give a look to open issues tab, there you can find  new features and bugs reported.
@@ -56,6 +60,7 @@ If you need help with the repo or you have any question, you can ask to Arturo m
 [firebase_docs_database]: <https://firebase.google.com/docs/database/android/start>
 [iOS_repo]: <https://github.com/Amejia481/whereIsMyBusiOSClient>
 [android_tracker_repo]: <https://github.com/Amejia481/whereismybus_locationtracking>
+[android_client]:<https://github.com/Amejia481/whereIsMyBusAndroidClient>
 [web_app_repo]: <https://github.com/AngelGarcia13/WhereIsMyBus>
 [performace_android]: <https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE>
 [best_practice]: <https://www.youtube.com/playlist?list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM>
